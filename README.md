@@ -1,2 +1,4 @@
 # lab3_v2.0
-Versión 2 de la práctica "Lending Club" - Machine Learning
+lab3_v2.0 Lending Club - Machine Learning
+
+Authors: -Diego Senso González, diego.senso@cunef.edu -Luis Vaciero, luis.vaciero@cunef.edu
